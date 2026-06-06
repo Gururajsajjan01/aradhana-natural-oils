@@ -1,0 +1,30 @@
+[
+  {
+    "id": "half-liter",
+    "name": "Half Liter Bottle",
+    "size": "500 ml",
+    "description": "Compact bottle for trials, small families and convenient daily kitchen use.",
+    "image": "/assets/bottles/half-liter-bottle.png"
+  },
+  {
+    "id": "one-liter",
+    "name": "One Liter Bottle",
+    "size": "1 Ltr",
+    "description": "Popular home-size bottle for regular cooking and family wellness needs.",
+    "image": "/assets/bottles/one-liter-bottle.png"
+  },
+  {
+    "id": "five-liter",
+    "name": "Five Liter Bottle",
+    "size": "5 Ltr",
+    "description": "Large value pack for monthly use, bulk cooking and frequent customers.",
+    "image": "/assets/bottles/five-liter-bottle.jpeg"
+  },
+  {
+    "id": "all-bottles",
+    "name": "All Bottle Sizes",
+    "size": "500 ml, 1 Ltr and 5 Ltr",
+    "description": "Complete bottle range available for Aradhana Natural Oils orders.",
+    "image": "/assets/bottles/all-bottles.png"
+  }
+]

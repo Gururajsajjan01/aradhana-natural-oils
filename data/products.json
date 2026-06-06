@@ -1,0 +1,34 @@
+[
+  {
+    "id": "groundnut",
+    "name": "Groundnut Oil",
+    "category": "Cooking",
+    "description": "A rich, golden oil with a comforting nutty aroma for everyday Indian cooking.",
+    "benefits": ["Heart friendly", "Rich in healthy fats"],
+    "image": "/assets/products/groundnut-oil.jpg"
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut Oil",
+    "category": "Wellness",
+    "description": "Naturally fragrant oil suitable for nourishing hair care, skin care and traditional use.",
+    "benefits": ["Hair care", "Skin nourishment"],
+    "image": "/assets/products/coconut-oil.jpg"
+  },
+  {
+    "id": "safflower",
+    "name": "Safflower Oil",
+    "category": "Cooking",
+    "description": "A light, versatile oil suitable for everyday cooking and balanced family meals.",
+    "benefits": ["Light cooking", "Rich in healthy fats"],
+    "image": "/assets/products/sesame-oil.jpg"
+  },
+  {
+    "id": "sunflower",
+    "name": "Sunflower Oil",
+    "category": "Cooking",
+    "description": "A mild, golden cooking oil for daily recipes, frying and fresh home-style meals.",
+    "benefits": ["Mild flavor", "Everyday cooking"],
+    "image": "/assets/products/sunflower-oil.png"
+  }
+]
