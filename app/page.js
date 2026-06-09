@@ -1,4 +1,3 @@
-import About from "@/components/About";
 import Benefits from "@/components/Benefits";
 import BlogFaq from "@/components/BlogFaq";
 import Contact from "@/components/Contact";
@@ -9,6 +8,7 @@ import ProcessTimeline from "@/components/ProcessTimeline";
 import ProductSection from "@/components/ProductSection";
 import Testimonials from "@/components/Testimonials";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import About from "@/components/About"; // ✅ FIXED
 
 export default function Home() {
   return (
